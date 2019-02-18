@@ -1,9 +1,6 @@
 class Person
-  def adele_goldberg
-    
-  end
   
-  def alan_kay
-    
-  end
 end
+
+adele_goldberg = Person.new
+alan_kay = Person.new
